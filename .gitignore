@@ -1,0 +1,12 @@
+bin/
+obj/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+Logs/
+sessions/
+appsettings.json
+WTelegram.session
+.DS_Store
+Thumbs.db
